@@ -14,9 +14,11 @@ nav {
   align-items: center;
 }
 
-.logo {
+.logo a {
   font-size: 1.5rem;
   font-weight: bold;
+  text-decoration: none;
+  color: #fff;
 }
 
 .nav-links {
